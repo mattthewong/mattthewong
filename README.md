@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, こんにちは、my name is Matt and I like to :male-technologist:
 
 <!--
 **mattthewong/mattthewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
