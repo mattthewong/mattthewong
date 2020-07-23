@@ -1,4 +1,4 @@
-### Hello, my name is Matt and I like to 👨‍💻
+### Hey. My name is Matt and I like to 👨‍💻
 <!--
 **mattthewong/mattthewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
