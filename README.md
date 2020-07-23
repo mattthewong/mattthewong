@@ -1,5 +1,4 @@
-### Hello, my name is Matt and I like to :male-technologist:
-:male-technologist:
+### Hello, my name is Matt and I like to 👨‍💻
 <!--
 **mattthewong/mattthewong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- :male-tec
 -->
