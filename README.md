@@ -1,7 +1,7 @@
 ### Hey. My name is Matt and I like to 👨‍💻 🏋️ 🤔
 
 <a href="https://github.com/mattthewong">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattthewong&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattthewong&theme=light" />
 </a>
 <a href="https://github.com/mattthewong">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mattthewong&show_icons=true&theme=light&line_height=27" alt="Matt's github stats"/>
