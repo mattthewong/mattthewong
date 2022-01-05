@@ -1,8 +1,8 @@
 ### Hey! I'm Matt.
 
-- 🌐 Visit [my website](https://mattthewong.com)
+- 🌐 Visit [my website](https://mattthewong.com).
 
-- 🤖 I’m currently working at [MODE](https://www.tinkermode.com/)
+- 🤖 I’m currently working at [MODE](https://www.tinkermode.com/).
 
 - 📫 You can reach me here: mwong17@cmc.edu.
 
