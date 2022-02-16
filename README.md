@@ -8,4 +8,8 @@
 
 [![Matt's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattthewong&count_private=true&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Matt's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattthewong&theme=swift&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+### Top Langs
+![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
