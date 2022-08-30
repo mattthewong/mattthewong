@@ -2,7 +2,7 @@
 
 - 🚀 I’m currently working at [LaunchDarkly](https://launchdarkly.com/).
 
-- 🌐 Visit [my website](https://mattthewong.com).
+- 🌐 Visit [my website](https://mattthewong.com/?utm_source=github).
 
 - 📫 You can reach me here: mwong17@cmc.edu.
 
